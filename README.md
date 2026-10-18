@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Danish Ansari! 👋
 
-<!--
-**danishansari99-max/danishansari99-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Aspiring AI Developer | CSE Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm learning to build AI assistants and useful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Learning Python and software development.
+- 🤖 Building **AASHU AI** — my personal Windows AI assistant.
+- 🦾 Planning **ANSHU AI** — my future AI robot project.
+- 🎯 Improving my coding skills one step at a time.
+
+## 🛠️ Currently Learning
+
+- Python
+- Git & GitHub
+- Artificial Intelligence
+- Software Development
+
+## 📌 My Projects
+
+### 🖥️ AASHU AI
+A personal AI assistant for Windows, built with Python.
+
+### 🤖 ANSHU AI
+A long-term project to build an AI-powered robotic companion.
+
+## 🎯 My Goal
+
+To become a skilled software engineer and build technology that makes a difference.
+
+---
+
+⭐ Thanks for visiting my profile!
